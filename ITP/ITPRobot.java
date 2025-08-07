@@ -1,4 +1,5 @@
 package ITP;
+
 import kareltherobot.*;
 
 public class ITPRobot extends UrRobot
